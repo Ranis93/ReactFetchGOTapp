@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactFetchGOTapp/static/css/main.8246c93b.css",
+    "main.js": "/ReactFetchGOTapp/static/js/main.5bab1e15.js",
+    "static/media/error.jpg": "/ReactFetchGOTapp/static/media/error.0a860523d540454561fe.jpg",
+    "index.html": "/ReactFetchGOTapp/index.html",
+    "main.8246c93b.css.map": "/ReactFetchGOTapp/static/css/main.8246c93b.css.map",
+    "main.5bab1e15.js.map": "/ReactFetchGOTapp/static/js/main.5bab1e15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8246c93b.css",
+    "static/js/main.5bab1e15.js"
+  ]
+}
